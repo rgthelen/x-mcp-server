@@ -1,0 +1,28 @@
+{
+  "name": "x-mcp-server",
+  "version": "1.0.0",
+  "description": "A Model Context Protocol (MCP) server for X (Twitter) integration",
+  "main": "build/index.js",
+  "scripts": {
+    "build": "npx tsc",
+    "start": "node build/index.js",
+    "dev": "npm run build && npm run start"
+  },
+  "keywords": [
+    "mcp",
+    "twitter",
+    "x",
+    "api"
+  ],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "@modelcontextprotocol/sdk": "^1.11.3",
+    "axios": "^1.11.0",
+    "oauth-1.0a": "^2.2.6"
+  },
+  "devDependencies": {
+    "@types/node": "^22.15.18",
+    "typescript": "^5.8.3"
+  }
+}
