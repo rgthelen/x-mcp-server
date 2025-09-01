@@ -97,8 +97,8 @@ If the setup script didn't work, manually update the config:
       "args": ["/Users/yourusername/x-mcp-server/build/index.js"],
       "cwd": "/Users/yourusername/x-mcp-server",
       "env": {
-        "X_OAUTH2_ACCESS_TOKEN": "R3VrWTJJbHRocGE5N0dyM1V5YWJRV1VsX0twLWVuOUhMSlU2RjRJRVBSbW5FOjE3NTUyMzI3MjkxMjg6MToxOmF0OjE",
-        "X_OAUTH2_REFRESH_TOKEN": "cEdVblBudWlwR3lLeGE5Z2hWNTFhel83d2lMUHdWZDlUeWNnaGw0YmZZRlV0OjE3NTUyMzI3MjkxMjg6MToxOnJ0OjE"
+        "X_OAUTH2_ACCESS_TOKEN": "R3VrWTJJbHRocGE5N0dyM1V5YWJRV1VsX0twLWVuOUhMSlU2RjRJRVBSbW5FOjE3NTUyMzI3MjkxMjg6MToF0OjE",
+        "X_OAUTH2_REFRESH_TOKEN": "cEdVblBudWlwR3lLeGE5Z2hWNTFhel83d2lMUHdWZDlUeWNnaGw0YmZZRlV0OjE3MzI3MjkxMjg6MToxOnJ0OjE"
       }
     }
   }
